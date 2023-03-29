@@ -1,3 +1,4 @@
 tensorflow
 pyyaml
+scikit-learn
 # metaopts
